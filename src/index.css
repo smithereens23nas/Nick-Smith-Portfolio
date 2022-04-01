@@ -36,7 +36,9 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url("../src/assets/wp9113033.jpeg");
+  /* background-image: url("../src/assets/p-448-pai-809.jpeg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* ======================== GENERAL STYLES ======================= */
@@ -59,6 +61,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
