@@ -1,7 +1,7 @@
 .experience__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    /* gap: 2rem; */
 }
 
 .experience__container > div {
@@ -10,19 +10,24 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    margin: 0 30px;
 }
 
 .experience__container > div:hover {
     background: transparent;
-    border-color: var(--color-bg-variant);
+    border-color: var(--color-white);
     cursor: default;
 }
 
 .experience__container > div h3 {
    text-align: center;
    margin-bottom: 2rem;
-   color: var(--color-primary);
+   color: var(--color-white);
 }
+
+.experience__container > div h5 {
+margin-top: 100px;
+ }
 
 .experience__content {
     display: grid;
@@ -32,6 +37,7 @@
 
 .experience__details {
     display: flex;
+    justify-content: center;
     gap: 1rem;
 }
 

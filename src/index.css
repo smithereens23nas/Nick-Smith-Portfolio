@@ -11,6 +11,19 @@
 }
 
 :root {
+  --color-bg: #241f1c;
+  --color-bg-variant: #c1ad97;
+  --color-primary: #e7dac7;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+  --transition: all 400ms ease;
+  --conatiner-width-lg: 75%;
+  --conatiner-width-md: 86%;
+  --conatiner-width-sm: 90%%;
+}
+
+/* :root {
   --color-bg: #1f1f38;
   --color-bg-variant: #2c2c6c;
   --color-primary: #4db5ff;
@@ -21,7 +34,7 @@
   --conatiner-width-lg: 75%;
   --conatiner-width-md: 86%;
   --conatiner-width-sm: 90%%;
-}
+} */
 
 html {
   scroll-behavior: smooth;
@@ -60,7 +73,7 @@ h1 {
 }
 
 section {
-  margin-top: 8rem;
+  margin-top: 20rem;
 }
 
 section > h2,
