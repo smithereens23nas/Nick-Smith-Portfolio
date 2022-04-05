@@ -2,8 +2,25 @@ import React from "react";
 import "./contact.css";
 import { AiOutlineMail } from "react-icons/ai";
 import { BsLinkedin } from "react-icons/bs";
+import { useRef } from "react";
+import emailjs from "emailjs-com"
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_lj2o6e7', 'template_w5k1gkd', form.current, 'JpyOuLWvSGrZhdXTT')
+    e.target.reset()
+
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
@@ -22,7 +39,7 @@ const Contact = () => {
             <a href="https://www.linkedin.com/in/nicholas23smith/">Send a message</a>
           </article>
         </div>
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
@@ -31,7 +48,7 @@ const Contact = () => {
           />
           <input type="text" name="email" placeholder="Your Email" required />
           <textarea
-            type="message"
+            name="message"
             rows="7"
             placeholder="Your Message"
             required

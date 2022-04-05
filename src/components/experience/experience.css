@@ -53,6 +53,10 @@ margin-top: 100px;
   grid-template-columns: 1fr;
 }
 
+.experience__frontend {
+    margin-bottom: 5rem;
+}
+
 .experience__container > div {
     width: 80%;
     padding: 2rem;
@@ -70,6 +74,7 @@ margin-top: 100px;
 .experience__container {
 gap: 1rem;
 }
+
 
 .experience__container > div {
     width: 100%;

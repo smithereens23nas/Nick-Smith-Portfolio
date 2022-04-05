@@ -25,12 +25,12 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>2</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>5+ Completed Projects</small>
             </article>
           </div>
           <p>This is my paragraph that I am suppose to type and enter here.</p>

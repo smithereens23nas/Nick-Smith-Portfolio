@@ -15,7 +15,7 @@ const Experience = () => {
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
@@ -29,28 +29,28 @@ const Experience = () => {
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
                 <h4>JQuery</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -64,13 +64,13 @@ const Experience = () => {
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
             <h4>MongoDB</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
           </div>
         </article>
         <article className="experience__details">
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
-            <h4>NoSQL</h4>
+            <h4>Mongoose</h4>
             <small className="text-light">Intermediate</small>
           </div>
         </article>
@@ -78,28 +78,28 @@ const Experience = () => {
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
             <h4>Node JS</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
           </div>
         </article>
         <article className="experience__details">
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
-            <h4>React</h4>
-            <small className="text-light">Experienced</small>
+            <h4>Express</h4>
+            <small className="text-light">Intermediate</small>
           </div>
         </article>
         <article className="experience__details">
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
             <h4>Heroku</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
           </div>
         </article>
         <article className="experience__details">
           <BsCheckCircleFill className="experience__details-icon" />
           <div>
             <h4>PSQL</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
           </div>
         </article>
       </div>
