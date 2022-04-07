@@ -25,7 +25,7 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>2</small>
+              <small>1</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,7 +33,7 @@ const About = () => {
               <small>5+ Completed Projects</small>
             </article>
           </div>
-          <p>This is my paragraph that I am suppose to type and enter here.</p>
+          <p>I started immersing myself in technology when I worked in the cybersecurity industry for 2 years gaining insightful knowledge that gave me a firm understanding of best practices in securing one’s code and infrastructure. Software engineering enables me to build logic that is well suited to meet specific requirements to achieve an expected outcome. I take pride in using my professional skills to support the entrepreneurial culture of start-ups and smaller companies. I’m resilient and disciplined in staying focused on completing my goals until my desired outcome is met, and I love going above and beyond, reaching for the stars to outperform expectations, and putting smiles on faces.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
