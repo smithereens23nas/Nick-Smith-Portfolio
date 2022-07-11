@@ -27,7 +27,20 @@ export default [
     icon4: <SiCss3 />,
   },
   {
-    id: 2,
+    id: 3,
+    image: "https://i.imgur.com/GH82T97.jpeg",
+    title: "Wayfarer",
+    description: "A travel blog to post your favorite hotspots and memories.",
+    github: "https://github.com/smithereens23nas/wayfarer",
+    demo: "https://smithereens23nas.github.io/wayfarer/",
+    icon: <SiPython />,
+    icon1: <SiPostgresql />,
+    icon2: <DiDjango />,
+    icon3: <SiBulma />,
+    icon4: <SiCss3 />,
+  },
+  {
+    id: 4,
     image: "https://i.imgur.com/3XXhlKo.jpeg",
     title: "Pokemon Game",
     description: "A basic version of the classic Pokemon game. Gotta Catch em' all.",
@@ -39,7 +52,7 @@ export default [
     icon3: <SiCss3 />,
   },
   {
-    id: 3,
+    id: 5,
     image: "https://i.imgur.com/h9IoBwK.jpg",
     title: "Closed Ocean",
     description: "Inspired by OpenSea NFT website. A marketplace for NFT's.",
@@ -53,7 +66,7 @@ export default [
   },
 
   {
-    id: 4,
+    id: 6,
     image: "https://i.imgur.com/E7pQfrG.jpg",
     title: "Zauben - Dashboard",
     description:
