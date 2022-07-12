@@ -42,14 +42,13 @@ export default [
   },
   {
     id: 3,
-    image: "https://imgur.com/NuKrXS8.jpg",
+    image: "https://imgur.com/cwzGFk4.jpg",
     title: "Zauben",
     description:
       "A Performance dashboard for the Chicago based living wall company, Zauben.",
     github: "https://github.com/smithereens23nas/zauben-web-app",
     demo: "https://zaubendashboard.netlify.app/",
     icon: <SiReact />,
-    icon1: <SiPostgresql />,
     icon3: <SiNodedotjs />,
     icon2: <SiHtml5 />,
     icon4: <SiCss3 />,
