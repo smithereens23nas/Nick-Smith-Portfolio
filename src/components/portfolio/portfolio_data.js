@@ -11,6 +11,8 @@ import { SiReact } from "react-icons/si";
 import { SiNodedotjs } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
+import { BsWordpress } from "react-icons/bs";
+
 
 export default [
   {
@@ -20,10 +22,9 @@ export default [
     description: "A travel blog to post your favorite hotspots and memories.",
     github: "https://github.com/smithereens23nas/wayfarer",
     demo: "https://smithereens23nas.github.io/wayfarer/",
-    icon: <SiPython />,
-    icon1: <SiPostgresql />,
-    icon2: <DiDjango />,
-    icon3: <SiBulma />,
+    icon: <BsWordpress />,
+    icon1: <SiJavascript />,
+    icon2: <SiHtml5 />,
     icon4: <SiCss3 />,
   },
   {
