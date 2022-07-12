@@ -17,7 +17,7 @@ import { BsWordpress } from "react-icons/bs";
 export default [
   {
     id: 1,
-    image: "react-portfolio-website/src/assets/WBC.png",
+    image: "https://imgur.com/2WC5Gqo.jpeg",
     title: "World Business Chicago",
     description: "World Business Chicago is the city of Chicago's public-private economic development agency.",
     github: "https://github.com/smithereens23nas",
@@ -29,7 +29,7 @@ export default [
   },
   {
     id: 2,
-    image: "https://imgur.com/isR93b8",
+    image: "https://imgur.com/isR93b8.jpeg",
     title: "CAN-TV",
     description: "Chicago Access Network Television is a public, educational, and government access cable television service in Chicago, Illinois.",
     github: "https://github.com/smithereens23nas",
