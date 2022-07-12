@@ -42,7 +42,7 @@ export default [
   },
   {
     id: 3,
-    image: "https://imgur.com/W46AMCl.jpg",
+    image: "https://imgur.com/cwzGFk4.jpg",
     title: "Zauben",
     description:
       "A Performance dashboard for the Chicago based living wall company, Zauben.",
