@@ -29,7 +29,7 @@ export default [
   },
   {
     id: 2,
-    image: "https://imgur.com/PHrzXYb.jpeg",
+    image: "https://imgur.com/MAXfez2.jpeg",
     title: "CAN-TV",
     description: "Chicago Access Network Television is a public, educational, and government access cable television service in Chicago, Illinois.",
     github: "https://github.com/smithereens23nas",
