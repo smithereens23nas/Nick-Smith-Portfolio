@@ -42,7 +42,7 @@ export default [
   },
   {
     id: 3,
-    image: "https://imgur.com/C2xX5OX.jpg",
+    image: "https://imgur.com/NuKrXS8.jpg",
     title: "Zauben",
     description:
       "A Performance dashboard for the Chicago based living wall company, Zauben.",
@@ -50,8 +50,8 @@ export default [
     demo: "https://zaubendashboard.netlify.app/",
     icon: <SiReact />,
     icon1: <SiPostgresql />,
-    icon2: <SiSequelize />,
     icon3: <SiNodedotjs />,
+    icon2: <SiHtml5 />,
     icon4: <SiCss3 />,
     icon5: <SiExpress />,
   },
