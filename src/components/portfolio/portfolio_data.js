@@ -80,13 +80,13 @@ export default [
   },
 
   {
-    id: 6,
-    image: "https://i.imgur.com/E7pQfrG.jpg",
-    title: "Zauben - Dashboard",
+    id: 3,
+    image: "https://imgur.com/EBvrtkJ.jpg",
+    title: "Zauben",
     description:
       "A Performance dashboard for the Chicago based living wall company, Zauben.",
     github: "https://github.com/smithereens23nas/Zauben-Dashboard-FrontEnd",
-    demo: "https://zauben.netlify.app/performance",
+    demo: "https://zaubendashboard.netlify.app/",
     icon: <SiReact />,
     icon1: <SiPostgresql />,
     icon2: <SiSequelize />,
