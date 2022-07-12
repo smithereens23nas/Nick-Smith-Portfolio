@@ -18,7 +18,7 @@ export default [
   {
     id: 1,
     image: "react-portfolio-website/src/assets/WBC.png",
-    title: "Wayfarer",
+    title: "World Business of Chicago",
     description: "A travel blog to post your favorite hotspots and memories.",
     github: "https://github.com/smithereens23nas/wayfarer",
     demo: "https://smithereens23nas.github.io/wayfarer/",
@@ -28,7 +28,7 @@ export default [
     icon4: <SiCss3 />,
   },
   {
-    id: 1,
+    id: 2,
     image: "https://i.imgur.com/GH82T97.jpeg",
     title: "World Business of Chicago",
     description: "A travel blog to post your favorite hotspots and memories.",
