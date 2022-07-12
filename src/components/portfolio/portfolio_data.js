@@ -17,7 +17,7 @@ import { BsWordpress } from "react-icons/bs";
 export default [
   {
     id: 1,
-    image: "react-portfolio-website/src/assets/Screen Shot 2022-07-11 at 6.30.58 PM.png",
+    image: "react-portfolio-website/src/assets/WBC.png",
     title: "Wayfarer",
     description: "A travel blog to post your favorite hotspots and memories.",
     github: "https://github.com/smithereens23nas/wayfarer",
@@ -30,7 +30,7 @@ export default [
   {
     id: 1,
     image: "https://i.imgur.com/GH82T97.jpeg",
-    title: "Wayfarer",
+    title: "World Business of Chicago",
     description: "A travel blog to post your favorite hotspots and memories.",
     github: "https://github.com/smithereens23nas/wayfarer",
     demo: "https://smithereens23nas.github.io/wayfarer/",
