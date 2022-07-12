@@ -36,8 +36,8 @@ export default [
     demo: "https://imgur.com/sDoQL8A",
     icon: <BsWordpress />,
     icon1: <SiJavascript />,
-    icon4: <SiJquery />,
-    icon2: <SiHtml5 />,
+    icon2: <SiJquery />,
+    icon3: <SiHtml5 />,
     icon4: <SiCss3 />,
   },
   {
