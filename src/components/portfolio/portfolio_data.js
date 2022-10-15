@@ -39,7 +39,7 @@ export default [
     icon2: <SiJquery />,
     icon3: <SiHtml5 />,
     icon4: <SiCss3 />,
-  },  
+  }, 
   {
     id: 3,
     image: "https://imgur.com/cwzGFk4.jpg",
